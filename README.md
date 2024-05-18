@@ -16,5 +16,8 @@ Just type this command to execute the streamlit app
 ```bash
 streamlit run API.py
 ```
+## Created By 
 
+Hi, I am Jaskaran Singh Basra , I am Currently perusing B.Tech Computer Science Hons. in Machine Learning And Artificial Intelligence from Graphic Era Hill University. I am glad to do this project which was given to me by BeyondChats.
+Thankyou for considering this application .
 
